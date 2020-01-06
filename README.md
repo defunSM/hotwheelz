@@ -1,2 +1,1 @@
-# hotwheelz
-A car selling website example.
+A car selling website using node.js and heroku.
