@@ -1,2 +1,0 @@
-web: bin/start-nginx bundle exec puma config/puma.rb
-statsd: node node_modules/statsd/stats.js config/statsd.js
